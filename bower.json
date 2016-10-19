@@ -1,0 +1,17 @@
+{
+  "name": "LoftLesson",
+  "homepage": "https://github.com/Serg73/Examp",
+  "authors": [
+    "Serg73 <s.karev2003@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
